@@ -1,0 +1,6 @@
+qiskit>=0.45.0
+qiskit-aer>=0.13.0
+qiskit-optimization>=0.6.0
+qiskit-ibmq-provider>=0.20.0
+matplotlib>=3.7.0
+numpy>=1.24.0
